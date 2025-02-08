@@ -46,3 +46,9 @@ The project consists of several classes, each placed in its own file:
 
 - **Main.java**  
   Contains a demonstration of the system usage. It shows how to set up a cinema, add screenings, perform reservations (both anonymous and for a registered customer), print the programme, and search for movies.
+
+
+
+## UML Diagram
+
+![UML Diagram](uml-diagram.png)
